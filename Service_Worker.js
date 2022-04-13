@@ -11,12 +11,15 @@ const CACHE_NAME = 'Web',
 
     './css/menu.css',
     './css/style.css',
+    './css/zerogrid.css',
 
     './font-awesome/fonts/fontawesome-webfont.ttf',
 
     './js/app.js',
     './js/script.js',
     './js/jquery1111.min.js',
+    './js/css3-mediaqueries.js',
+    './js/html5.js',
 
     './images/1.jpg',
     './images/2.jpg',
