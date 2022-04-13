@@ -8,38 +8,33 @@
     "orientation": "portrait",
     "icons": [
         {
-          "src": "./icono/icon_72x72-01.png",
+          "src": "./iconos/icon_72x72-01.png",
           "type": "image/png",
           "sizes": "72x72"
         },
     
         {
-            "src": "./icono/icon_96x96-01.png",
-            "type": "image/png",
-            "sizes": "96x96"
-        },
-        {
-            "src": "./icono/icon_128x128-01.png",
+            "src": "./iconos/icon_128x128-01.png",
             "type": "image/png",
             "sizes": "128x128"
         },
         {
-            "src": "./icono/icon_144x144-01.png",
+            "src": "./iconos/icon_144x144-01.png",
             "type": "image/png",
             "sizes": "144x144"
         },
         {
-            "src": "./icono/icon_192x192-01.png",
+            "src": "./iconos/icon_192x192-01.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "./icono/icon_384x384-01.png",
+            "src": "./iconos/icon_384x384-01.png",
             "type": "image/png",
             "sizes": "384x384"
         },
         {
-            "src": "./icono/icon_512x512-01.png",
+            "src": "./iconos/icon_512x512-01.png",
             "type": "image/png",
             "sizes": "512x512"
         }
